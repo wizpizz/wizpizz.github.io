@@ -1,5 +1,5 @@
 html {
-    font-family: Calibri, serif;
+    font-family: "Open Sans",  serif;
 }
 
 body {
@@ -13,4 +13,12 @@ h1 {
 
 p {
     color: white;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 300px;
+    height: 500px;
 }
