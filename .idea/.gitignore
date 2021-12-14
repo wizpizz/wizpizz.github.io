@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/wizpizz.iml
+/vcs.xml
+/modules.xml
+/discord.xml
+# Editor-based HTTP Client requests
+/httpRequests/
