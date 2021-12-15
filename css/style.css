@@ -31,4 +31,5 @@ iframe {
     display: block;
     width: 500px;
     height: 500px;
+    border: 0;
 }
