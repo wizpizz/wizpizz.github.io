@@ -26,26 +26,9 @@ h1 {
     color: blue;
 }
 
-#discord {
-    position: absolute;
-    z-index: 10;
-    background-color: #f1f1f1;
-    border: 0 solid #d3d3d3;
-    text-align: center;
-    border-radius: 10px;
-    cursor: move;
-}
-
-#discordheader {
-    padding: 10px;
-    cursor: move;
-    z-index: 10;
-    background-color: #2196F3;
-    color: #fff;
-    border-radius: 10px;
-}
-
 iframe {
+    margin: auto;
+    display: block;
     width: 500px;
     height: 500px;
 }
