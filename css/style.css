@@ -19,6 +19,15 @@ h1 {
 
 }
 
+/* center the div "fakead" 
+    and make it's size 728x90 */
+#fakead {
+    margin: 0 auto;
+    width: 728px;
+    height: 90px;
+    padding: 10px;
+}
+
 #one {
     text-align: left;
     color: red;
