@@ -9,4 +9,7 @@ window.onload = function () {
         window.alert("This is the first time you are visiting this website")
         localStorage.setItem("gaacs", "true");
     }
+    
+    window.alert(document.documentElement.innerHTML)
+    
 }
